@@ -11,5 +11,11 @@ namespace DemoProject
         {
             Console.WriteLine("..");
         }
+        public void Member2_update()
+        {
+            Console.WriteLine("Hello member 2!");
+            Console.WriteLine("Hello member 2!");
+            Console.WriteLine("Hello member 2!");
+        }
     }
 }
