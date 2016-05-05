@@ -11,9 +11,5 @@ namespace DemoProject
         {
             Console.WriteLine("..");
         }
-        public void NewFunc()
-        {
-            Console.WriteLine("Huong Huynh");
-        }
     }
 }
